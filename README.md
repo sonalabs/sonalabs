@@ -1,7 +1,4 @@
-<picture>
-    <img alt="Welcome to SonaLabs - Home of D.I.Y Tech Projects..." src="">
-</picture>
-
+![github1](https://github.com/sonalabs/sonalabs/assets/43153743/077154c0-e2da-456a-b27e-5b3b6d68eb1d)
 
 Sonalabs is an Educational D.I.Y (Do-It-Yourself) platform that helps you build your next D.I.Y Mechatronics and Artificial Intelligence Project. 
 
